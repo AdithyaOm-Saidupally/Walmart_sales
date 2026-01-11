@@ -23,6 +23,8 @@ The project focuses on answering real-world business questions around revenue tr
 ### 1. Environment Setup
 - Created a structured workspace using VS Code
 - Organized folders for data, SQL scripts, notebooks, and documentation
+<img width="302" height="359" alt="Screenshot 2026-01-12 at 01 00 35" src="https://github.com/user-attachments/assets/62dc35bd-1ef4-41d1-b795-54e8b3a73706" />
+
 
 ### 2. Data Acquisition
 - Downloaded Walmart sales data using the Kaggle API
@@ -46,6 +48,7 @@ The project focuses on answering real-world business questions around revenue tr
 - Loaded cleaned data into **MySQL and PostgreSQL**
 - Automated table creation using SQLAlchemy
 - Validated data using SQL queries
+<img width="1054" height="540" alt="Screenshot 2026-01-12 at 01 01 39" src="https://github.com/user-attachments/assets/7fef0f56-45d4-4c24-863a-f419e2c25270" />
 
 ### 7. SQL Analysis
 Used advanced SQL queries to answer key business questions:
@@ -54,6 +57,7 @@ Used advanced SQL queries to answer key business questions:
 - Sales performance by city, time, and payment method
 - Peak sales periods and customer purchasing behavior
 - Profit margin analysis by branch and category
+<img width="356" height="618" alt="Screenshot 2026-01-12 at 01 02 43" src="https://github.com/user-attachments/assets/e6c5eeba-bfe1-48c2-bf6c-7a9da3856f29" />
 
 ---
 
